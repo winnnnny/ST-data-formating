@@ -1,3 +1,3 @@
 # ST-data-formating
 
-Documentation about reformatting spacial gene data
+Documentation about reformatting spatial gene data
